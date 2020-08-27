@@ -1,0 +1,42 @@
+[
+    {
+        "name": "你完了，我打电话告诉你妈妈",
+        "tag": [
+            "生草",
+            "猫和老鼠"
+        ],
+        "img": "nwl_wddhgsnmm.jpg"
+    },
+    {
+        "name": "滑稽问号",
+        "tag": [
+            "滑稽",
+            "问"
+        ],
+        "img": "hjwh.jpg"
+    },
+    {
+        "name": "你把我鲨了吧",
+        "tag": [
+            "哭"
+        ],
+        "img": "nbwslb.jpg"
+    },
+    {
+        "name": "泪目猫猫",
+        "tag": [
+            "哭",
+            "猫"
+        ],
+        "img": "lmmm.jpg"
+    },
+    {
+        "name": "小恐龙系列表情",
+        "tag": [
+            "小恐龙",
+            "可爱"
+        ],
+        "img": "xklawa.png",
+        "about":"这是一个系列表情，<a href='resources/xkl.zip'>点击我下载压缩包。</a>"
+    }
+]
