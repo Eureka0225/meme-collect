@@ -8,7 +8,7 @@
 * 方案1 :   
    1. 创建一个自己的分支;  
    2. 在`resources/all.json`最后添加表情的信息，格式如下  
-    ```
+    ```json
     {
        "name":"这个表情的名字",
        "tag":[
@@ -20,8 +20,9 @@
     }
     ```
    3. 在resources文件夹中添加表情或表情包。  
-      （注：如果您正在贡献系列表情，可以在“img”中填写预览图的文件名，在“about”中标注系列表情下载地址（最好是Zip文件））  
+      （注：如果您正在贡献系列表情，可以在“img”中填写预览图的文件名，在“about”中标注系列表情的下载地址（最好为Zip文件，链接支持html语法））  
    4. 发送[Pull Requests](https://github.com/waterblock79/meme-collect/pulls)
 
 * 方案2 :  
+   
    1. 发送Issue，并注明表情的名称、Tag、文件名和描述。
