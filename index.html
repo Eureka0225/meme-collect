@@ -15,10 +15,29 @@
             top:10%;
             left:10%;
             width:80%;
-            height:30%;
+            height:25%;
             background:black;
             opacity:0.5;
-            border-radius:15px;
+            border-radius:15px 15px 0px 0px;
+         }
+         .top_button{
+            position:absolute;
+            top:35%;
+            left:10%;
+            width:80%;
+            height:7%;
+            background:black;
+            opacity:0.5;
+            border-radius:0px 0px 15px 15px;
+            display:flex;
+            justify-content:center;
+         }
+         .top_button_search{
+            flex-grow:1;
+            border:none;
+            border-radius:0px 0px 15px 15px;
+            background:black;
+            color:white;
          }
          .top_title{
             position:relative;
@@ -66,8 +85,11 @@
    </head>
    <body style="background:url('resources/background.jpg');background-repeat:no-repeat;background-size:cover;">
       <div class="top">
-         <span class="top_title">水方块的表情收集站<br/></span>
+         <span class="top_title">水方块的表情收集站</span><br/>
          <span class="top_about">这是一个个人性质的表情收集小站，<br/>会收集一些好玩的表情和段子。</span>
+      </div>
+      <div class="top_button">
+         <button class="top_button_search" onclick="window.open('search.html')">🔍&nbsp;搜索</button>
       </div>
       <div class="box">
          <script src="js/getall.js" type="text/javascript"></script>
