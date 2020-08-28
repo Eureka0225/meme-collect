@@ -37,6 +37,21 @@
             "可爱"
         ],
         "img": "xklawa.png",
-        "about":"这是一个系列表情，<a href='resources/xkl.zip'>点击我下载压缩包。</a>"
+        "about": "这是一个系列表情，<a href='resources/xkl.zip'>点击我下载压缩包。</a>"
+    },
+    {
+        "name": "就这？",
+        "tag": [
+            "就这"
+        ],
+        "img": "jzjzjz.png"
+    },
+    {
+        "name": "我tm直接XX系列表情",
+        "tag": [
+            "我tm"
+        ],
+        "img": "wtmzjhh.png",
+        "about": "这是一个系列表情，<a href='resources/wtmzjxx.zip'>点击我下载表情包</a>"
     }
 ]
